@@ -3,7 +3,7 @@
 This is a collection of some scripts I have written in the past for managing
 Ceph clusters. Most of them relate to a very full cluster. I also wrote an [blog
 article] with things to consider first before diving into some custom scripts
-someone write on the internet.
+someone wrote on the internet.
 
 - Documentation (and FAQ – if any) can found in this README.
 - Feel free to file issues to report bugs, ask questions, or request features.
